@@ -72,4 +72,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Suraj Kumar5**, also known as **Data Analysis With Suraj**. I’m an IT professional and aspiring Data Analyst, focused on mastering Pandas for data analysis through hands-on and practical learning.
+Hi there! I'm **Suraj Kumar**, also known as **Data Analysis**. I’m Data Analyst, focused on mastering Pandas for data analysis through hands-on and practical learning.
