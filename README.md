@@ -48,9 +48,9 @@ pandas-ultimate-course/
 ## ⚙️ Installation Guide
 
 - Pandas Install
-  ```
-  pip install pandas
-  ```
+```
+pip install pandas
+```
 ---
   
 - Jupyter Notebook Install
