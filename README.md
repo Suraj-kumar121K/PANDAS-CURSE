@@ -36,8 +36,6 @@ pandas-ultimate-course/
 │
 ├── datasets/              # CSV & Excel datasets
 │
-├── notebooks/             # Pandas practice notebooks
-│
 ├── scripts/               # Pandas Python scripts
 │
 └── docs/                  # Pandas notes & explanations
