@@ -69,5 +69,4 @@ pip install openpyxl
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-
 Hi there! I'm **Suraj Kumar**, also known as **Data Analysis**. I’m Data Analyst, focused on mastering Pandas for data analysis through hands-on and practical learning.
